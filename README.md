@@ -1,9 +1,8 @@
 # Project Algorithms
 
-Neste projeto aprendi complexidade de algoritmas, Big-O e como diminuir a complexidade do seu código. Com este conhecimento em mão eu fiz os requisitos propostos pela Trybe
+Neste projeto, eu aprendi sobre a complexidade dos algoritmos e a importância de otimizar o código para obter um melhor desempenho. Aprendi sobre Big-O e técnicas para diminuir a complexidade do código, tornando-o mais eficiente e escalável. 
 
 # Os requisitos são:
-
 
 ## 1 - Número de estudantes estudando no mesmo horário (Algoritmo de busca)
 
